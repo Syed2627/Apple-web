@@ -1,0 +1,126 @@
+*{
+    font-family: sans-serif;
+    font-stretch: extra-expanded;
+}
+#covid{
+    margin-top: -5px ;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: rgb(29, 29, 235);
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#cov{
+    color: white;
+    text-decoration: none;
+}
+#shop{
+    background-color: rgb(246, 239, 228);
+    margin-top: -15px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+}
+#sh{
+    color: rgb(11, 91, 241);
+    background-color: transparent;
+    text-decoration: none;
+}
+#sh:hover{
+    color: tomato;
+}
+#firs{
+    text-align: center;
+}
+.buy{
+    color: darkgray;
+}
+h1{
+    margin: 0%;
+    font-stretch: ultra-expanded;
+}
+.apl{
+    text-decoration: none;
+    color: white;
+}
+.bl{
+    color: rgb(11, 91, 241);
+    text-decoration: none;
+}
+#sec{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#third{
+    text-align: center;
+}
+#terma{
+    background-color: rgb(41, 37, 37);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.term{
+    color: white;
+    display: inline;
+    padding-right: 90px;
+}
+.terms{
+    padding-right: 90px;
+    padding-left: 80px;
+    display: inline;
+}
+#fourth{
+    text-align: center;
+    margin-left: -10%;
+    background-image: url(rac.jpg);
+    background-repeat: no-repeat;
+    margin-right: 700px;
+    color: white;
+    height: 500px;
+    width: 800px;
+}
+#fifth{
+    text-align: center;
+    margin-left: 680px; 
+    margin-top: -500px;
+    background-color: black;
+    background-image: url(ima.jpg);
+    background-repeat: no-repeat;
+    background-size: 700px 500px;
+    color: white;
+    height: 500px;
+}
+h3{
+    color: red;
+}
+#sixth{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 680px;
+    margin-top: -18px;
+    height: 520px;
+    margin-left: -10px;
+    margin-right: 700px;
+}
+#seventh{
+    text-align: center;
+    background-color:whitesmoke;
+    margin-top: -520px;
+    margin-left: 680px;
+    margin-right: -10px;
+    height: 500px;
+}
+#eighth{
+    background-color: whitesmoke;
+    margin-right: -10px;
+    text-align: justify;
+    font-stretch: ultra-condensed;
+    color: grey;
+}
+.aple{
+    
+}
